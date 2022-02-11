@@ -1,0 +1,2 @@
+jsConfuse()
+dateReplace()
